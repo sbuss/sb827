@@ -50,6 +50,8 @@ pytz==2018.3
 pyzmq==17.0.0
 qtconsole==4.3.1
 scandir==1.7
+scipy==1.0.1
+seaborn==0.8.1
 Send2Trash==1.5.0
 Shapely==1.6.4.post1
 simplegeneric==0.8.1
@@ -62,5 +64,4 @@ tornado==5.0.1
 traitlets==4.3.2
 wcwidth==0.1.7
 webencodings==0.5.1
-wheel==0.24.0
 widgetsnbextension==3.1.4
