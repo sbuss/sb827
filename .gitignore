@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 *.gz.properties
 gis/sf/computed
+gis/berkeley/computed*
